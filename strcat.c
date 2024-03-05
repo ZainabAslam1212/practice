@@ -24,5 +24,6 @@ int main()
     printf("Enter 2nd string : ");
     gets(str2);
     printf("Combined string is %s",strcat(str1,str2));
+    // added a comment
     return 0;
 }
